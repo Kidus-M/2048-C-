@@ -1,8 +1,1 @@
-DRB2202 B
-GROUP 3 LAB
-
-
-KIDUS MESFIN TEFERI
-HUSSEIN MAZHAR HUSSEIN
-HUZEYFA ABDURAHMAN
-HIYAW DAWIT
+This game is made by Kidus Mesfin Teferi using SFML UI liberary and trminal interface. showinh how dynamic programming can better render any interface if implemented right.
