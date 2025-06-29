@@ -55,6 +55,7 @@ if(DIFFICULTY==1){
         {
             for (int b=0; b<P; b++)
                 MAP1[a][b]=COP1[a][b];
+
         }
     }else {
     for (int a=0; a<K; a++)
