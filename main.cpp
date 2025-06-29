@@ -9,6 +9,7 @@ using namespace std;
               TILESIZE = 64;
               int DIFFICULTY;
 bool g_win = false;
+
 int MAP[N][M], MAP1[O][P], MAP2[K][H];//Initial array to store value, position and space
 int COP[N][M], COP1[O][P], COP2[K][H];//copy variable for undo
 
