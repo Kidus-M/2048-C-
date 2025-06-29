@@ -4,6 +4,7 @@
 using namespace std;
 
 
+
          const   int N = 4, M = 4, O=5,P=5,K=6,H=6,
               TILESIZE = 64;
               int DIFFICULTY;
